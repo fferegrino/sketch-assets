@@ -8,22 +8,32 @@ on:
       - 'tcsg/**'
 
 jobs:
-
-  compress:
-
-    runs-on: ubuntu-latest
-
+  generate_assets:
+    name: Generate assets
+    runs-on: macos-latest
     steps:
-
-      - uses: actions/checkout@v3
-
+      - name: Checkout code
+        uses: actions/checkout@v3
       - name: Install dependencies
-        run: sudo apt-get install -y zip jq moreutils
-
-      - name: Compress sketch
+        run: |
+          brew install jq
+          brew install moreutils
+      - name: Create Sketchfile
         run: ./sketchify.sh
-
-      - uses: actions/upload-artifact@v3
+      - name: Install Sketch
+        run: |
+          wget -O sketch.zip https://download.sketch.com/sketch-88.1-145978.zip
+          unzip -qq sketch.zip
+          Sketch.app/Contents/MacOS/sketchtool -v
+      - name: Export artboards
+        run: Sketch.app/Contents/MacOS/sketchtool export artboards tcsg.sketch --output=export --formats=jpg --scales=1,2
+      - name: Save exported images
+        uses: actions/upload-artifact@v3
+        with:
+          name: images
+          path: export/
+      - name: Save generated Sketch file
+        uses: actions/upload-artifact@v3
         with:
           name: sketch-file
           path: tcsg.sketch

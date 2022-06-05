@@ -1,0 +1,33 @@
+name: Export images
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+
+  export:
+
+    runs-on: macos-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          brew install jq
+      - name: Compress sketch
+        run: ./sketchify.sh
+      - name: Install Sketch
+        run: |
+          wget -O sketch.zip https://download.sketch.com/sketch-88.1-145978.zip
+          unzip -qq sketch.zip
+          Sketch.app/Contents/MacOS/sketchtool -v
+      - name: Export
+        run: Sketch.app/Contents/MacOS/sketchtool export artboards tcsg.sketch --output=export --formats=jpg --scales=1,2
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: images
+          path: export/

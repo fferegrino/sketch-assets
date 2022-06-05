@@ -1,0 +1,27 @@
+name: Sketchify
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+
+  compress:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: sudo apt-get install -y zip jq moreutils
+
+      - name: Compress sketch
+        run: ./sketchify.sh
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: sketch-file
+          path: tcsg.sketch

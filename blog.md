@@ -106,3 +106,30 @@ Lastly, let's clean up what I just did:
 ```shell
 cd ..; rm -rf ./tcsg_temp
 ```
+
+## Generate a file using GitHub action
+
+Of course, this process leaves a pretty much useless document for those that do not have the necessary tools to rebuild the sketch file from source. We can solve this problem with GitHub Actions, where we can build a *.sketch* file.
+
+```yaml
+name: Sketchify
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  compress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: sudo apt-get install -y zip jq moreutils
+      - name: Compress sketch
+        run: ./sketchify.sh
+      - uses: actions/upload-artifact@v3
+        with:
+          name: sketch-file
+          path: tcsg.sketch
+```

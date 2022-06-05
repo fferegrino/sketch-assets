@@ -47,7 +47,80 @@
   "sharedSwatches": {
     "_class": "swatchContainer",
     "do_objectID": "2C9D5DFC-8E5F-4654-A543-74D28B2AFAC6",
-    "objects": []
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "CF2598CA-F22F-47B8-B912-377CF11EBAD9",
+        "name": "Main",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2470588235294118,
+          "green": 0.5411764705882353,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "9E6FBAB4-B0FB-4E10-8325-0EC2AD2FB85C",
+        "name": "Light",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "7E61F270-3645-4E56-A5AA-5469B7B8E884",
+        "name": "White",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "F71BD8CA-6472-4388-828E-895F1F56B450",
+        "name": "Dark",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.2588235294117647,
+          "red": 0.2588235294117647
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "2149F33B-3273-46FD-9737-E83D91AE9928",
+        "name": "Accent 1",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.4627450980392157,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "57B11A29-418B-4C2A-AE9A-4D857671A5B1",
+        "name": "Accent 2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.396078431372549,
+          "green": 0.8274509803921568,
+          "red": 0.9921568627450981
+        }
+      }
+    ]
   },
   "documentState": {
     "_class": "documentState"

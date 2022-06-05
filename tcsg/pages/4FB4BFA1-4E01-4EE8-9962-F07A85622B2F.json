@@ -1,0 +1,1312 @@
+{
+  "_class": "page",
+  "do_objectID": "4FB4BFA1-4E01-4EE8-9962-F07A85622B2F",
+  "booleanOperation": -1,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isTemplate": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false,
+    "exportFormats": []
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E53F5116-2BEB-4E53-B5FD-FD5E7DF6736A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1,
+    "blur": {
+      "_class": "blur",
+      "isEnabled": false,
+      "center": "{0.5, 0.5}",
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "isEnabled": true,
+      "dashPattern": [],
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [],
+    "colorControls": {
+      "_class": "colorControls",
+      "isEnabled": false,
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "fills": [],
+    "innerShadows": [],
+    "shadows": []
+  },
+  "hasClickThrough": true,
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "layers": [
+    {
+      "_class": "artboard",
+      "do_objectID": "CC945F47-B2C3-4DC0-83D0-56C99AC57511",
+      "booleanOperation": -1,
+      "isFixedToViewport": false,
+      "isFlippedHorizontal": false,
+      "isFlippedVertical": false,
+      "isLocked": false,
+      "isTemplate": false,
+      "isVisible": true,
+      "layerListExpandedType": 2,
+      "name": "classic-youtube",
+      "nameIsFixed": true,
+      "resizingConstraint": 63,
+      "resizingType": 0,
+      "rotation": 0,
+      "shouldBreakMaskChain": true,
+      "exportOptions": {
+        "_class": "exportOptions",
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false,
+        "exportFormats": []
+      },
+      "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 150,
+        "width": 150,
+        "x": 0,
+        "y": 0
+      },
+      "clippingMaskMode": 0,
+      "hasClippingMask": false,
+      "style": {
+        "_class": "style",
+        "do_objectID": "2DB94CC0-4B4A-44BE-BDFF-0FBEC9151043",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1,
+        "blur": {
+          "_class": "blur",
+          "isEnabled": false,
+          "center": "{0.5, 0.5}",
+          "motionAngle": 0,
+          "radius": 10,
+          "saturation": 1,
+          "type": 0
+        },
+        "borderOptions": {
+          "_class": "borderOptions",
+          "isEnabled": true,
+          "dashPattern": [],
+          "lineCapStyle": 0,
+          "lineJoinStyle": 0
+        },
+        "borders": [],
+        "colorControls": {
+          "_class": "colorControls",
+          "isEnabled": false,
+          "brightness": 0,
+          "contrast": 1,
+          "hue": 0,
+          "saturation": 1
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "fills": [],
+        "innerShadows": [],
+        "shadows": []
+      },
+      "hasClickThrough": true,
+      "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+      },
+      "layers": [
+        {
+          "_class": "shapeGroup",
+          "do_objectID": "09C89721-7E0C-4871-958E-8ADBB1F71EDF",
+          "booleanOperation": -1,
+          "isFixedToViewport": false,
+          "isFlippedHorizontal": false,
+          "isFlippedVertical": false,
+          "isLocked": false,
+          "isTemplate": false,
+          "isVisible": true,
+          "layerListExpandedType": 1,
+          "name": "Combined Shape",
+          "nameIsFixed": false,
+          "resizingConstraint": 63,
+          "resizingType": 0,
+          "rotation": 0,
+          "shouldBreakMaskChain": false,
+          "exportOptions": {
+            "_class": "exportOptions",
+            "includedLayerIds": [],
+            "layerOptions": 0,
+            "shouldTrim": false,
+            "exportFormats": []
+          },
+          "frame": {
+            "_class": "rect",
+            "constrainProportions": false,
+            "height": 100,
+            "width": 100,
+            "x": 25,
+            "y": 25
+          },
+          "clippingMaskMode": 0,
+          "hasClippingMask": false,
+          "style": {
+            "_class": "style",
+            "do_objectID": "F5A6EFB0-7E44-4E23-9FCD-9E4B62B235BD",
+            "endMarkerType": 0,
+            "miterLimit": 10,
+            "startMarkerType": 0,
+            "windingRule": 1,
+            "blur": {
+              "_class": "blur",
+              "isEnabled": false,
+              "center": "{0.5, 0.5}",
+              "motionAngle": 0,
+              "radius": 10,
+              "saturation": 1,
+              "type": 0
+            },
+            "borderOptions": {
+              "_class": "borderOptions",
+              "isEnabled": true,
+              "dashPattern": [],
+              "lineCapStyle": 0,
+              "lineJoinStyle": 1
+            },
+            "borders": [
+              {
+                "_class": "border",
+                "isEnabled": true,
+                "fillType": 0,
+                "color": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 1,
+                  "green": 1,
+                  "red": 1
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "gradient": {
+                  "_class": "gradient",
+                  "elipseLength": 0,
+                  "from": "{0.5, 0}",
+                  "gradientType": 0,
+                  "to": "{0.5, 1}",
+                  "stops": [
+                    {
+                      "_class": "gradientStop",
+                      "position": 0,
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      }
+                    },
+                    {
+                      "_class": "gradientStop",
+                      "position": 1,
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    }
+                  ]
+                },
+                "position": 2,
+                "thickness": 3
+              }
+            ],
+            "colorControls": {
+              "_class": "colorControls",
+              "isEnabled": false,
+              "brightness": 0,
+              "contrast": 1,
+              "hue": 0,
+              "saturation": 1
+            },
+            "contextSettings": {
+              "_class": "graphicsContextSettings",
+              "blendMode": 0,
+              "opacity": 1
+            },
+            "fills": [
+              {
+                "_class": "fill",
+                "isEnabled": true,
+                "fillType": 0,
+                "color": {
+                  "_class": "color",
+                  "alpha": 1,
+                  "blue": 0.2470588235294118,
+                  "green": 0.5411764705882353,
+                  "red": 0.2352941176470588
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "gradient": {
+                  "_class": "gradient",
+                  "elipseLength": 0,
+                  "from": "{0.5, 0}",
+                  "gradientType": 0,
+                  "to": "{0.5, 1}",
+                  "stops": [
+                    {
+                      "_class": "gradientStop",
+                      "position": 0,
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 1,
+                        "green": 1,
+                        "red": 1
+                      }
+                    },
+                    {
+                      "_class": "gradientStop",
+                      "position": 1,
+                      "color": {
+                        "_class": "color",
+                        "alpha": 1,
+                        "blue": 0,
+                        "green": 0,
+                        "red": 0
+                      }
+                    }
+                  ]
+                },
+                "noiseIndex": 0,
+                "noiseIntensity": 0,
+                "patternFillType": 1,
+                "patternTileScale": 1
+              }
+            ],
+            "innerShadows": [],
+            "shadows": []
+          },
+          "hasClickThrough": false,
+          "groupLayout": {
+            "_class": "MSImmutableFreeformGroupLayout"
+          },
+          "layers": [
+            {
+              "_class": "rectangle",
+              "do_objectID": "3C1FA224-F4E6-4371-AA84-93DCF517BD0A",
+              "booleanOperation": 0,
+              "isFixedToViewport": false,
+              "isFlippedHorizontal": false,
+              "isFlippedVertical": false,
+              "isLocked": false,
+              "isTemplate": false,
+              "isVisible": true,
+              "layerListExpandedType": 1,
+              "name": "Rectangle",
+              "nameIsFixed": false,
+              "resizingConstraint": 63,
+              "resizingType": 0,
+              "rotation": 0,
+              "shouldBreakMaskChain": false,
+              "exportOptions": {
+                "_class": "exportOptions",
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false,
+                "exportFormats": []
+              },
+              "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 100,
+                "width": 20,
+                "x": 20,
+                "y": 0
+              },
+              "clippingMaskMode": 0,
+              "hasClippingMask": false,
+              "style": {
+                "_class": "style",
+                "do_objectID": "87E95356-191F-4B0E-A0EE-170070B7669D",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1,
+                "blur": {
+                  "_class": "blur",
+                  "isEnabled": false,
+                  "center": "{0.5, 0.5}",
+                  "motionAngle": 0,
+                  "radius": 10,
+                  "saturation": 1,
+                  "type": 0
+                },
+                "borderOptions": {
+                  "_class": "borderOptions",
+                  "isEnabled": true,
+                  "dashPattern": [],
+                  "lineCapStyle": 0,
+                  "lineJoinStyle": 0
+                },
+                "borders": [
+                  {
+                    "_class": "border",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.592,
+                      "green": 0.592,
+                      "red": 0.592
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "position": 2,
+                    "thickness": 3
+                  }
+                ],
+                "colorControls": {
+                  "_class": "colorControls",
+                  "isEnabled": false,
+                  "brightness": 0,
+                  "contrast": 1,
+                  "hue": 0,
+                  "saturation": 1
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "fills": [
+                  {
+                    "_class": "fill",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.847,
+                      "green": 0.847,
+                      "red": 0.847
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "noiseIndex": 0,
+                    "noiseIntensity": 0,
+                    "patternFillType": 1,
+                    "patternTileScale": 1
+                  }
+                ],
+                "innerShadows": [],
+                "shadows": []
+              },
+              "edited": false,
+              "isClosed": true,
+              "pointRadiusBehaviour": 1,
+              "points": [
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 1}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 1}"
+                }
+              ],
+              "fixedRadius": 0,
+              "needsConvertionToNewRoundCorners": false,
+              "hasConvertedToNewRoundCorners": true
+            },
+            {
+              "_class": "rectangle",
+              "do_objectID": "D5C42EA9-4980-47E7-9E90-06654EBD17A9",
+              "booleanOperation": 0,
+              "isFixedToViewport": false,
+              "isFlippedHorizontal": false,
+              "isFlippedVertical": false,
+              "isLocked": false,
+              "isTemplate": false,
+              "isVisible": true,
+              "layerListExpandedType": 1,
+              "name": "Rectangle",
+              "nameIsFixed": false,
+              "resizingConstraint": 63,
+              "resizingType": 0,
+              "rotation": 0,
+              "shouldBreakMaskChain": false,
+              "exportOptions": {
+                "_class": "exportOptions",
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false,
+                "exportFormats": []
+              },
+              "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 20,
+                "width": 100,
+                "x": 0,
+                "y": 20
+              },
+              "clippingMaskMode": 0,
+              "hasClippingMask": false,
+              "style": {
+                "_class": "style",
+                "do_objectID": "32058F77-263B-4AEE-AA77-5D319743F0B6",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1,
+                "blur": {
+                  "_class": "blur",
+                  "isEnabled": false,
+                  "center": "{0.5, 0.5}",
+                  "motionAngle": 0,
+                  "radius": 10,
+                  "saturation": 1,
+                  "type": 0
+                },
+                "borderOptions": {
+                  "_class": "borderOptions",
+                  "isEnabled": true,
+                  "dashPattern": [],
+                  "lineCapStyle": 0,
+                  "lineJoinStyle": 0
+                },
+                "borders": [
+                  {
+                    "_class": "border",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.592,
+                      "green": 0.592,
+                      "red": 0.592
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "position": 2,
+                    "thickness": 3
+                  }
+                ],
+                "colorControls": {
+                  "_class": "colorControls",
+                  "isEnabled": false,
+                  "brightness": 0,
+                  "contrast": 1,
+                  "hue": 0,
+                  "saturation": 1
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "fills": [
+                  {
+                    "_class": "fill",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.847,
+                      "green": 0.847,
+                      "red": 0.847
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "noiseIndex": 0,
+                    "noiseIntensity": 0,
+                    "patternFillType": 1,
+                    "patternTileScale": 1
+                  }
+                ],
+                "innerShadows": [],
+                "shadows": []
+              },
+              "edited": false,
+              "isClosed": true,
+              "pointRadiusBehaviour": 1,
+              "points": [
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 1}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 1}"
+                }
+              ],
+              "fixedRadius": 0,
+              "needsConvertionToNewRoundCorners": false,
+              "hasConvertedToNewRoundCorners": true
+            },
+            {
+              "_class": "rectangle",
+              "do_objectID": "00DF3594-86D5-4F01-B7F1-45B1817715AC",
+              "booleanOperation": 0,
+              "isFixedToViewport": false,
+              "isFlippedHorizontal": false,
+              "isFlippedVertical": false,
+              "isLocked": false,
+              "isTemplate": false,
+              "isVisible": true,
+              "layerListExpandedType": 1,
+              "name": "Rectangle",
+              "nameIsFixed": false,
+              "resizingConstraint": 63,
+              "resizingType": 0,
+              "rotation": 0,
+              "shouldBreakMaskChain": false,
+              "exportOptions": {
+                "_class": "exportOptions",
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false,
+                "exportFormats": []
+              },
+              "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 20,
+                "width": 100,
+                "x": 0,
+                "y": 60
+              },
+              "clippingMaskMode": 0,
+              "hasClippingMask": false,
+              "style": {
+                "_class": "style",
+                "do_objectID": "E36EF37E-09AE-43DC-8FAF-4E2A53681921",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1,
+                "blur": {
+                  "_class": "blur",
+                  "isEnabled": false,
+                  "center": "{0.5, 0.5}",
+                  "motionAngle": 0,
+                  "radius": 10,
+                  "saturation": 1,
+                  "type": 0
+                },
+                "borderOptions": {
+                  "_class": "borderOptions",
+                  "isEnabled": true,
+                  "dashPattern": [],
+                  "lineCapStyle": 0,
+                  "lineJoinStyle": 0
+                },
+                "borders": [
+                  {
+                    "_class": "border",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.592,
+                      "green": 0.592,
+                      "red": 0.592
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "position": 2,
+                    "thickness": 3
+                  }
+                ],
+                "colorControls": {
+                  "_class": "colorControls",
+                  "isEnabled": false,
+                  "brightness": 0,
+                  "contrast": 1,
+                  "hue": 0,
+                  "saturation": 1
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "fills": [
+                  {
+                    "_class": "fill",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.847,
+                      "green": 0.847,
+                      "red": 0.847
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "noiseIndex": 0,
+                    "noiseIntensity": 0,
+                    "patternFillType": 1,
+                    "patternTileScale": 1
+                  }
+                ],
+                "innerShadows": [],
+                "shadows": []
+              },
+              "edited": false,
+              "isClosed": true,
+              "pointRadiusBehaviour": 1,
+              "points": [
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 1}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 1}"
+                }
+              ],
+              "fixedRadius": 0,
+              "needsConvertionToNewRoundCorners": false,
+              "hasConvertedToNewRoundCorners": true
+            },
+            {
+              "_class": "rectangle",
+              "do_objectID": "EF433F93-FA4C-4E87-96DB-32CACB444C3A",
+              "booleanOperation": 0,
+              "isFixedToViewport": false,
+              "isFlippedHorizontal": false,
+              "isFlippedVertical": false,
+              "isLocked": false,
+              "isTemplate": false,
+              "isVisible": true,
+              "layerListExpandedType": 1,
+              "name": "Rectangle",
+              "nameIsFixed": false,
+              "resizingConstraint": 63,
+              "resizingType": 0,
+              "rotation": 0,
+              "shouldBreakMaskChain": false,
+              "exportOptions": {
+                "_class": "exportOptions",
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false,
+                "exportFormats": []
+              },
+              "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 100,
+                "width": 20,
+                "x": 60,
+                "y": 0
+              },
+              "clippingMaskMode": 0,
+              "hasClippingMask": false,
+              "style": {
+                "_class": "style",
+                "do_objectID": "72BA4928-0725-4B57-9977-22AEC4A14D3A",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1,
+                "blur": {
+                  "_class": "blur",
+                  "isEnabled": false,
+                  "center": "{0.5, 0.5}",
+                  "motionAngle": 0,
+                  "radius": 10,
+                  "saturation": 1,
+                  "type": 0
+                },
+                "borderOptions": {
+                  "_class": "borderOptions",
+                  "isEnabled": true,
+                  "dashPattern": [],
+                  "lineCapStyle": 0,
+                  "lineJoinStyle": 0
+                },
+                "borders": [
+                  {
+                    "_class": "border",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.592,
+                      "green": 0.592,
+                      "red": 0.592
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "position": 2,
+                    "thickness": 3
+                  }
+                ],
+                "colorControls": {
+                  "_class": "colorControls",
+                  "isEnabled": false,
+                  "brightness": 0,
+                  "contrast": 1,
+                  "hue": 0,
+                  "saturation": 1
+                },
+                "contextSettings": {
+                  "_class": "graphicsContextSettings",
+                  "blendMode": 0,
+                  "opacity": 1
+                },
+                "fills": [
+                  {
+                    "_class": "fill",
+                    "isEnabled": true,
+                    "fillType": 0,
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.847,
+                      "green": 0.847,
+                      "red": 0.847
+                    },
+                    "contextSettings": {
+                      "_class": "graphicsContextSettings",
+                      "blendMode": 0,
+                      "opacity": 1
+                    },
+                    "gradient": {
+                      "_class": "gradient",
+                      "elipseLength": 0,
+                      "from": "{0.5, 0}",
+                      "gradientType": 0,
+                      "to": "{0.5, 1}",
+                      "stops": [
+                        {
+                          "_class": "gradientStop",
+                          "position": 0,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 1,
+                            "green": 1,
+                            "red": 1
+                          }
+                        },
+                        {
+                          "_class": "gradientStop",
+                          "position": 1,
+                          "color": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0,
+                            "green": 0,
+                            "red": 0
+                          }
+                        }
+                      ]
+                    },
+                    "noiseIndex": 0,
+                    "noiseIntensity": 0,
+                    "patternFillType": 1,
+                    "patternTileScale": 1
+                  }
+                ],
+                "innerShadows": [],
+                "shadows": []
+              },
+              "edited": false,
+              "isClosed": true,
+              "pointRadiusBehaviour": 1,
+              "points": [
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 0}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 0}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 0}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{1, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{1, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{1, 1}"
+                },
+                {
+                  "_class": "curvePoint",
+                  "cornerRadius": 0,
+                  "cornerStyle": 0,
+                  "curveFrom": "{0, 1}",
+                  "curveMode": 1,
+                  "curveTo": "{0, 1}",
+                  "hasCurveFrom": false,
+                  "hasCurveTo": false,
+                  "point": "{0, 1}"
+                }
+              ],
+              "fixedRadius": 0,
+              "needsConvertionToNewRoundCorners": false,
+              "hasConvertedToNewRoundCorners": true
+            }
+          ],
+          "windingRule": 1
+        }
+      ],
+      "hasBackgroundColor": true,
+      "includeBackgroundColorInExport": true,
+      "isFlowHome": false,
+      "overlayBackgroundInteraction": 0,
+      "presentationStyle": 0,
+      "resizesContent": false,
+      "backgroundColor": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9490196078431372,
+        "green": 0.9333333333333333,
+        "red": 0.9333333333333333
+      },
+      "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": 0,
+        "guides": []
+      },
+      "verticalRulerData": {
+        "_class": "rulerData",
+        "base": 0,
+        "guides": []
+      }
+    }
+  ],
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}

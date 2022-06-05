@@ -1,3 +1,9 @@
+Sometimes I use Sketch to create graphics for the content I create, however, I had always found it difficult to keep track of all my work. Saving files here and there, versioning them with what I thought was a sensible name schemes, only to realise that following such schemes requires a lot of mental effort.
+
+My dream was always to be able to store my Sketch files in a *Git* repo; for some reason I always thought this would be impossible, that Sketche's files were binaries impossible to properly version...
+
+In the following post, I'll explain why I was wrong, and how is it that you can version your *Sketch* files as plain text documents.
+
 So I start with a base document, nothing too complex as I don't want to overcomplicate things:
 
 ![Simple image](https://ik.imagekit.io/thatcsharpguy/posts/sketch-in-git/Screenshot_2022-06-04_at_19.59.35.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654369932542)
@@ -87,6 +93,20 @@ Again, let's delete any preview image, for consistency with the process above:
 rm -rf ./tcsg_temp/previews/preview.png
 ```
 
+### Putting everything together
+
+I placed all the above code into a single file called `desketchify.sh`:
+
+```shell
+#!/usr/bin/env bash
+
+unzip -o -d tcsg tcsg.sketch
+
+find ./tcsg -type f -name "*.json" -exec  sh -c "jq . {} | sponge {}" \;
+
+rm -rf ./tcsg/previews/preview.png
+```
+
 ### Compress
 
 Finally, the compression step, first we need to change directory to the temporary folder I have been working on. Then apply the compression step using the `zip` utility:
@@ -104,6 +124,24 @@ At the end of this command I should have a `.sketch` file that can be opened in 
 Lastly, let's clean up what I just did:
 
 ```shell
+cd ..; rm -rf ./tcsg_temp
+```
+
+### Putting everything together
+
+I placed all the above code into a single file called `sketchify.sh`:
+
+```shell
+#!/usr/bin/env bash
+
+cp -r ./tcsg ./tcsg_temp
+
+find ./tcsg_temp -type f -name "*.json" -exec  sh -c "jq -c . {} | sponge {}" \;
+
+rm -rf ./tcsg_temp/previews/preview.png
+
+cd ./tcsg_temp; zip -r -X ../tcsg.sketch *
+
 cd ..; rm -rf ./tcsg_temp
 ```
 
@@ -133,3 +171,15 @@ jobs:
           name: sketch-file
           path: tcsg.sketch
 ```
+
+This will rebuild my sketch file every time new changes are made to the repository. The best part? the artifact will be available for download in the github UI:
+
+![Artifact available to download](https://ik.imagekit.io/thatcsharpguy/posts/sketch-in-git/Screenshot_2022-06-05_at_07.12.06.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654409559139)
+
+## Conclusion
+
+I consider this to be a pretty decent way to store Sketch files as assets in a Git repository, of course, depending on the changes you make, the diffs may still be mounstrous; but at least they are more trackable than as s single *zip* file.
+
+To use the code described in this post you will need to make some adjustments to it to refere to your own files.
+
+There is still a lot of things that I would like to do using Sketch documents, such as automatically export the artboards or desketchify the files as they are modified, instead of having to run the commands manually.

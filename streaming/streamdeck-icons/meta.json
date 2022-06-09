@@ -1,0 +1,91 @@
+{
+  "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+  "pagesAndArtboards": {
+    "9616D929-DAE0-435C-87A7-5D09DEF9F9A1": {
+      "name": "Coding",
+      "artboards": {
+        "EC0BC5B4-F0A4-4718-960A-595ECEA82A0D": {
+          "name": "sound_desktop"
+        },
+        "AEA46634-A749-493A-BA9A-0D23F98318B2": {
+          "name": "timeout"
+        },
+        "D95EF26A-C9D7-4E17-AD17-4C3EAF9374DB": {
+          "name": "secret_screen"
+        },
+        "71C07DBD-264D-4A23-A47F-622888838D7D": {
+          "name": "empty"
+        },
+        "DF889976-7CCD-4B0E-82B0-ACD3AF09A682": {
+          "name": "me"
+        },
+        "FDC5C566-60E8-44C7-AEB7-0D34429FBB06": {
+          "name": "cancel_zoom"
+        },
+        "37366417-71D5-4E5B-B4A8-346A98944294": {
+          "name": "me_screen_tweet"
+        },
+        "C6781F12-E679-441E-BA4D-8BC1EA5E7434": {
+          "name": "no-mic"
+        },
+        "90163140-4821-44C4-9EA1-0B3D86B34D1F": {
+          "name": "me_end"
+        },
+        "785C71DC-DD92-46C7-9DD2-26676A9B3386": {
+          "name": "me-call"
+        },
+        "810A49A7-E706-4CE2-9185-6192D9E4CA95": {
+          "name": "me_screen_yt"
+        },
+        "B2094272-1CB2-4C61-882E-A0FDC5A5D9F5": {
+          "name": "me_question"
+        },
+        "A9AA6692-6D03-4EAF-9F8F-EA91C1EB5645": {
+          "name": "me_screen"
+        },
+        "219454A9-D802-4472-B7D2-F993143FFDF1": {
+          "name": "whiteboard"
+        },
+        "9601BE31-26CB-44DB-9037-D9482140694D": {
+          "name": "mic"
+        },
+        "9664BE7E-F4B2-4527-8D85-398911F78D0B": {
+          "name": "intro"
+        },
+        "026644EB-1CF8-4177-BEE5-583F2B8FD7F1": {
+          "name": "mute_desktop"
+        },
+        "14E3E459-77E8-42A5-BCE2-A5CACFE6009C": {
+          "name": "main_screen"
+        },
+        "FC0DC5A7-B7E8-4B83-9AA2-EAD4F24B1CB0": {
+          "name": "zoom_out"
+        },
+        "155FD51D-999B-48E0-A518-327F48575244": {
+          "name": "zoom_in"
+        }
+      }
+    }
+  },
+  "version": 143,
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "coeditCompatibilityVersion": 143,
+  "created": {
+    "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+    "appVersion": "88.1",
+    "build": 145978,
+    "app": "com.bohemiancoding.sketch3",
+    "coeditCompatibilityVersion": 143,
+    "compatibilityVersion": 99,
+    "version": 143,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.145978"
+  ],
+  "appVersion": "88.1",
+  "build": 145978
+}

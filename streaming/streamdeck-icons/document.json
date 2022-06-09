@@ -1,0 +1,159 @@
+{
+  "_class": "document",
+  "do_objectID": "20E8CFCA-92E2-4E4D-AE1C-250DC8791797",
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "assets": {
+    "_class": "assetCollection",
+    "do_objectID": "FAF36522-CE14-4D38-9D93-819B6D97F073",
+    "images": [],
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "do_objectID": "E2D60581-5DF1-4D9F-9351-5CA950F3B7A6",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "do_objectID": "6DBB9B74-20D4-4F0D-A8E8-E968FEB0174D",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2470588235294117,
+          "green": 0.5411764705882353,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "do_objectID": "7B5A94EA-BFB6-4A9F-81CD-08941913B6FA",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.6627450980392157,
+          "red": 0.01176470588235294
+        }
+      }
+    ],
+    "exportPresets": [],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9490196078431372,
+        "green": 0.9333333333333333,
+        "red": 0.9333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2470588235294117,
+        "green": 0.5411764705882353,
+        "red": 0.2352941176470588
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9568627450980391,
+        "green": 0.6627450980392157,
+        "red": 0.01176470588235294
+      }
+    ],
+    "gradients": []
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "B0628B43-CD3E-42D8-A713-8C88C7CCC154",
+      "fontFamilyName": "Bebas Neue",
+      "fontFileName": "BebasNeue.otf",
+      "options": 2,
+      "postscriptNames": [
+        "BebasNeue"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [],
+  "foreignSwatches": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "do_objectID": "71BB90F4-8BEE-4E55-AE18-040EC35E1E9F",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "0FD4EAE4-90F9-4E4D-AE1C-2E0FC8586EFA",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "do_objectID": "71AA839A-F48A-4E3F-AE2E-3318C14F3C99",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/9616D929-DAE0-435C-87A7-5D09DEF9F9A1"
+    }
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "19D8EEE4-90F9-4E4D-AE1C-2E0FC85860F6",
+    "objects": [
+      {
+        "_class": "swatch",
+        "do_objectID": "91A164F5-3E99-4D9F-9351-5CA950F3B7A6",
+        "name": "1. #EEEEF2",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9490196078431372,
+          "green": 0.9333333333333333,
+          "red": 0.9333333333333333
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "1ECCFA00-43BC-4F0D-A8E8-E968FEB0174D",
+        "name": "2. #3C8A3F",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2470588235294117,
+          "green": 0.5411764705882353,
+          "red": 0.2352941176470588
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "082DF59E-DCDE-4A9F-81CD-08941913B6FA",
+        "name": "3. #03A9F4",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9568627450980391,
+          "green": 0.6627450980392157,
+          "red": 0.01176470588235294
+        }
+      }
+    ]
+  },
+  "documentState": {
+    "_class": "documentState"
+  }
+}

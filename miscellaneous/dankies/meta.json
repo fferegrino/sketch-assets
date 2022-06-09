@@ -1,0 +1,65 @@
+{
+  "commit": "e4f505f4594eb188a22de2c3452fcb4587639e38",
+  "pagesAndArtboards": {
+    "5AC145CD-21BF-4D67-A145-7285BB97052C": {
+      "name": "Page 1",
+      "artboards": {
+        "4F0EBE8F-54F3-47F5-B898-8A86209BCFF2": {
+          "name": "00"
+        },
+        "D500FBA4-89D2-4F24-AA72-A754D15585D7": {
+          "name": "02"
+        },
+        "F928B34D-E887-4361-AEF2-CF274752D078": {
+          "name": "06"
+        },
+        "60FD6C51-B6F0-47CA-AF85-5E98A4670409": {
+          "name": "04"
+        },
+        "F19B73D8-1437-45C5-BD3E-21E0278AB2A4": {
+          "name": "01"
+        },
+        "87E1FACB-4E6C-4531-89EE-9BD07F5E3219": {
+          "name": "07"
+        },
+        "E31BE188-35A0-4795-93AF-CE13DF9A2ADB": {
+          "name": "05"
+        },
+        "44AA5E2E-9889-45F2-A304-80A1EB6E3E27": {
+          "name": "08"
+        },
+        "F1A0C29D-93D4-46DF-8451-D897EF237145": {
+          "name": "03"
+        }
+      }
+    },
+    "5BE9F783-313F-480A-9228-AE12440AC955": {
+      "name": "Symbols",
+      "artboards": {
+        "47B3FBEB-4D08-4B36-8119-F6AC94C5C792": {
+          "name": "Dress"
+        }
+      }
+    }
+  },
+  "version": 112,
+  "fonts": [],
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 1,
+  "variant": "NONAPPSTORE",
+  "created": {
+    "commit": "e4f505f4594eb188a22de2c3452fcb4587639e38",
+    "appVersion": "52.4",
+    "build": 67378,
+    "app": "com.bohemiancoding.sketch3",
+    "compatibilityVersion": 99,
+    "version": 112,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.67378"
+  ],
+  "appVersion": "52.4",
+  "build": 67378
+}

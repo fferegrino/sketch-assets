@@ -1,0 +1,34 @@
+{
+  "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+  "pagesAndArtboards": {
+    "10D57819-25EC-493E-AC9F-5B55379CD40C": {
+      "name": "Page 1",
+      "artboards": {
+        "18F899B8-FA6C-4B5C-A030-3C87001C2730": {
+          "name": "hubify"
+        }
+      }
+    }
+  },
+  "version": 143,
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "coeditCompatibilityVersion": 143,
+  "created": {
+    "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+    "appVersion": "88.1",
+    "build": 145978,
+    "app": "com.bohemiancoding.sketch3",
+    "coeditCompatibilityVersion": 143,
+    "compatibilityVersion": 99,
+    "version": 143,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.145978"
+  ],
+  "appVersion": "88.1",
+  "build": 145978
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "document",
+  "do_objectID": "46E54D90-FCEC-4AF1-8157-550E5591ECFF",
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "assets": {
+    "_class": "assetCollection",
+    "do_objectID": "9BE19F82-1170-4A73-B17A-FFB3FE8803C8",
+    "images": [],
+    "colorAssets": [],
+    "exportPresets": [],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "colors": [],
+    "gradients": []
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0C075EEF-91BF-4FEB-9A2B-936B5375BE86",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Black.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Montserrat-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2FE705C3-A3AF-4643-AEA0-DD2BF74DAF6C",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-VariableFont_wght.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "Montserrat-Thin",
+        "MontserratRoman-Black",
+        "MontserratRoman-Bold",
+        "MontserratRoman-ExtraBold",
+        "MontserratRoman-ExtraLight",
+        "MontserratRoman-Light",
+        "MontserratRoman-Medium",
+        "MontserratRoman-Regular",
+        "MontserratRoman-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F3E10FBD-31C3-48BC-9024-4F9CA7807DEA",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-LightItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F5635DF8-F521-4A85-8AFF-6E6CCD804B1D",
+      "fontFamilyName": "Montserrat",
+      "fontFileName": "Montserrat-Italic-VariableFont_wght.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "Montserrat-ThinItalic",
+        "MontserratItalic-Black",
+        "MontserratItalic-Bold",
+        "MontserratItalic-ExtraBold",
+        "MontserratItalic-ExtraLight",
+        "MontserratItalic-Light",
+        "MontserratItalic-Medium",
+        "MontserratItalic-Regular",
+        "MontserratItalic-SemiBold"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [],
+  "foreignSwatches": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "do_objectID": "C211CF80-60AE-46AE-914A-2457FA09B0CD",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "75D571C5-D78E-4402-A536-BFCCBC99611F",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "do_objectID": "FCAF3D44-1F59-4FE0-9803-E5E605549D4D",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/DDF5791D-2436-4256-95FA-0BF3FACD26A4"
+    }
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "BD0A5C0D-9BE8-4E4E-974A-5D2C52BD268E",
+    "objects": []
+  },
+  "documentState": {
+    "_class": "documentState"
+  }
+}

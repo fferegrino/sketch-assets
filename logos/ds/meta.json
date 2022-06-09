@@ -1,0 +1,40 @@
+{
+  "commit": "cd68af50e83a82d447401b49406862164af3b67c",
+  "pagesAndArtboards": {
+    "DDF5791D-2436-4256-95FA-0BF3FACD26A4": {
+      "name": "Page 1",
+      "artboards": {
+        "640CC4EB-6B66-4D0B-98CC-34E9064F4859": {
+          "name": "icon"
+        },
+        "D6A84126-243A-4FFF-B9B7-BCB057F95030": {
+          "name": "avatar"
+        },
+        "B706EF6F-02AA-4582-AB4B-4A449BD2CBB2": {
+          "name": "avatar"
+        }
+      }
+    }
+  },
+  "version": 139,
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "coeditCompatibilityVersion": 139,
+  "created": {
+    "commit": "cd68af50e83a82d447401b49406862164af3b67c",
+    "appVersion": "85.1",
+    "build": 141321,
+    "app": "com.bohemiancoding.sketch3",
+    "coeditCompatibilityVersion": 139,
+    "compatibilityVersion": 99,
+    "version": 139,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.141321"
+  ],
+  "appVersion": "85.1",
+  "build": 141321
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "document",
+  "do_objectID": "D8F90DE2-39A3-4946-9470-641E357A6805",
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "assets": {
+    "_class": "assetCollection",
+    "do_objectID": "193180BF-B0D5-45F6-9DE6-FA763F179D5D",
+    "images": [],
+    "colorAssets": [],
+    "exportPresets": [],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "colors": [],
+    "gradients": []
+  },
+  "fontReferences": [],
+  "foreignLayerStyles": [],
+  "foreignSwatches": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "do_objectID": "A090E756-5FC6-46BC-8946-17C74B02B250",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "91635F13-9796-4684-9AB5-CADAE6F68980",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "do_objectID": "66A950F6-18D6-44F1-BAB2-2B9B5515391B",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/CD146334-939E-4DF6-8801-94B749917546"
+    }
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "A0FCDC8F-4FED-4F9E-9A82-DEA7A7FEB369",
+    "objects": []
+  },
+  "documentState": {
+    "_class": "documentState"
+  }
+}

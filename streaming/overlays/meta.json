@@ -1,0 +1,56 @@
+{
+  "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+  "pagesAndArtboards": {
+    "32E26C85-AAF3-4517-ABAC-1FD33F4AF3F2": {
+      "name": "Test",
+      "artboards": {}
+    },
+    "74CAA470-6EA1-4587-98F4-56D02C3E64B4": {
+      "name": "Overlay",
+      "artboards": {
+        "50B7929D-4E74-4E67-9A2A-A8FB1F846DD5": {
+          "name": "StreamerFrame-Full"
+        },
+        "847D3D36-3A3C-4927-BF8B-B64D67E0330D": {
+          "name": "Fade"
+        },
+        "E30B26C9-CCE1-4A6E-B495-56CDBBE44AAF": {
+          "name": "Come-Chat"
+        },
+        "E236039A-C57F-417D-9BEF-DBEB9604583F": {
+          "name": "View2"
+        },
+        "5842529D-22EF-4F1E-A63A-6C1575AD7DCA": {
+          "name": "ViewFrame"
+        },
+        "24AFBDED-9F55-4B5B-8C04-6D6C331457C9": {
+          "name": "View1"
+        },
+        "5382FD57-4B26-49A6-B609-3CBFBA0EB88D": {
+          "name": "StreamerFrame-Small"
+        }
+      }
+    }
+  },
+  "version": 143,
+  "compatibilityVersion": 99,
+  "app": "com.bohemiancoding.sketch3",
+  "autosaved": 0,
+  "variant": "NONAPPSTORE",
+  "coeditCompatibilityVersion": 143,
+  "created": {
+    "commit": "bcb39d6d2b2fc249e1cd98477d235dfb4bab273d",
+    "appVersion": "88.1",
+    "build": 145978,
+    "app": "com.bohemiancoding.sketch3",
+    "coeditCompatibilityVersion": 143,
+    "compatibilityVersion": 99,
+    "version": 143,
+    "variant": "NONAPPSTORE"
+  },
+  "saveHistory": [
+    "NONAPPSTORE.145978"
+  ],
+  "appVersion": "88.1",
+  "build": 145978
+}

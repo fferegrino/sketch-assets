@@ -1,0 +1,81 @@
+{
+  "_class": "document",
+  "do_objectID": "42F34BA0-D1FE-41E7-BCA9-677161CA4955",
+  "colorSpace": 0,
+  "currentPageIndex": 0,
+  "assets": {
+    "_class": "assetCollection",
+    "do_objectID": "00EB3B81-9699-4166-92FE-282522363C93",
+    "images": [],
+    "colorAssets": [],
+    "exportPresets": [],
+    "gradientAssets": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "colors": [],
+    "gradients": []
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "AAC35ECF-0D6B-4138-B3F0-F4A9A48BA028",
+      "fontFamilyName": "Anja Eliane accent",
+      "fontFileName": "Anja Eliane accent002.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "AnjaElianeaccent-Nornal"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "DC30B69A-4C1E-42FF-8043-BEC45F5E09CA",
+      "fontFamilyName": "Fredoka One",
+      "fontFileName": "FredokaOne-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "FredokaOne-Regular"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [],
+  "foreignSwatches": [],
+  "foreignSymbols": [],
+  "foreignTextStyles": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "do_objectID": "8A278523-0834-4E65-9C0C-9E3D8825D32F",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "360FF129-24C8-4C47-B0F6-F771225EAEC8",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "do_objectID": "FF255825-4802-467C-97ED-BAB3DCDBA8E0",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/74CAA470-6EA1-4587-98F4-56D02C3E64B4"
+    },
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/32E26C85-AAF3-4517-ABAC-1FD33F4AF3F2"
+    }
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "8461C916-7C6D-45F6-B7C2-D7225817B2B6",
+    "objects": []
+  },
+  "documentState": {
+    "_class": "documentState"
+  }
+}
